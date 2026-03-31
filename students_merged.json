@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "AJ Gibbs",
+    "project": "Tax Agent",
+    "desc": "Agentic AI project focused on tax agent with practical workflow automation.",
+    "domain": "Finance",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "Consumers and households",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/1769468-4613126 - Aj Gibbs - Feb 4, 2026 1142 PM - Tax Agent.pdf",
+    "tags": [],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Aakifah Muheb",
+    "project": "Aakifah Muheb Final Project Proposal",
+    "desc": "Agentic AI project focused on aakifah muheb final project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2208880-4634675 - Aakifah Muheb - Mar 26, 2026 747 PM - Aakifah Muheb_ Milestone 2.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2208880-4634675 - Aakifah Muheb - Mar 26, 2026 747 PM - Aakifah Muheb_ Milestone 2.docx"
+  },
+  {
+    "name": "Abdulaziz Usman",
+    "project": "Agentic AI Project",
+    "desc": "The Summarizer Agent creates brief candidate profiles for qualified applicants, while the Alert Agent flags resumes that are missing required information.",
+    "domain": "HR / Recruiting",
+    "platform": "Opal",
+    "segment": "B2B",
+    "target": "Recruiters and hiring managers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1769586-4634655 - Abdulaziz Usman - Mar 25, 2026 1014 PM - Design Doc.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1769586-4634655 - Abdulaziz Usman - Mar 25, 2026 1014 PM - Design Doc.docx"
+  },
+  {
+    "name": "Abenezer Bekele",
+    "project": "A Multi Agent AI Study Planner and Academic Coach",
+    "desc": "Agentic AI project focused on a multi agent ai study planner and academic coach with practical workflow automation.",
+    "domain": "Education",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1942740-4634675 - Abenezer Bekele - Mar 26, 2026 829 PM - Milestone2-Final.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1942740-4634675 - Abenezer Bekele - Mar 26, 2026 829 PM - Milestone2-Final.docx"
+  },
+  {
+    "name": "Alan Abraham",
+    "project": "Agentic AI  Project Proposal",
+    "desc": "Motivation The motivation for this project is to reduce inefficiency in the job application process by automating repetitive tasks while keeping the user in control.",
+    "domain": "Career",
+    "platform": "CrewAI",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/1952901-4613126 - Alan Abraham - Feb 4, 2026 841 PM - Agentic AI_ Project Proposal.docx",
+    "tags": [],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Alicia Kim",
+    "project": "Alicia Kim - Final Project Proposal",
+    "desc": "Agentic AI project focused on alicia kim - final project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1953919-4634655 - Alicia Kim - Mar 24, 2026 251 PM - Final Project Milestone 2 - Alicia Kim.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1953919-4634655 - Alicia Kim - Mar 24, 2026 251 PM - Final Project Milestone 2 - Alicia Kim.docx"
+  },
+  {
+    "name": "Amari Castaneda",
+    "project": "Project Proposal  AI Agentic Study & Assignment Assistant",
+    "desc": "This project proposes an AI agentic study and assignment assistant that automates this academic workflow using a coordinated multi-agent system.",
+    "domain": "Education",
+    "platform": "Google ADK",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1958008-4634655 - Amari Castaneda - Mar 27, 2026 1146 AM - milestone 2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1958008-4634655 - Amari Castaneda - Mar 27, 2026 1146 AM - milestone 2.docx"
+  },
+  {
+    "name": "Amina Hilowle",
+    "project": "Project Proposal",
+    "desc": "Agentic AI project focused on project proposal (5) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2001351-4634675 - Amina Hilowle - Mar 26, 2026 911 PM - Milestone II.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2001351-4634675 - Amina Hilowle - Mar 26, 2026 911 PM - Milestone II.pdf"
+  },
+  {
+    "name": "Andy Vo",
+    "project": "Andy Vo Project Proposal",
+    "desc": "This project addresses the problem of planning-related stress and fragile assignment schedules among college students.",
+    "domain": "Education",
+    "platform": "CrewAI",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final project Proposal Download Mar 31, 2026 243 AM/1945372-4613125 - Andy Vo - Feb 4, 2026 1117 PM - Andy Vo Project Proposal.docx",
+    "tags": [],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Ariana Anderson",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2206105-4634655 - Ariana Anderson - Mar 22, 2026 654 PM - Milestone 2 Ariana Anderson.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2206105-4634655 - Ariana Anderson - Mar 22, 2026 654 PM - Milestone 2 Ariana Anderson.docx"
+  },
+  {
+    "name": "Ariel Henry",
+    "project": "Project Proposal - Agentic AI - Ariel Henry",
+    "desc": "Agentic AI project focused on project proposal - agentic ai - ariel henry with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "Opal",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1769138-4634675 - Ariel Henry - Mar 26, 2026 1037 PM - Mitigation Plan.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1769138-4634675 - Ariel Henry - Mar 26, 2026 1037 PM - Mitigation Plan.pdf"
+  },
+  {
+    "name": "Arlette Ruiz",
+    "project": "Project Proposal ArletteRuiz",
+    "desc": "Agentic AI project focused on project proposal arletteruiz with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1947883-4634675 - Arlette Ruiz - Mar 26, 2026 1124 PM - AI_Communication_Assistant_Design_Document.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1947883-4634675 - Arlette Ruiz - Mar 26, 2026 1124 PM - AI_Communication_Assistant_Design_Document.docx"
+  },
+  {
+    "name": "Ashriel Tayo-Olugbode",
+    "project": "Project Proposal RecipeGenius \u2013 Multi-Agent Cooking Assistant",
+    "desc": "Agentic AI project focused on project proposal recipegenius \u2013 multi-agent cooking assistant with practical workflow automation.",
+    "domain": "Lifestyle",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1697022-4634675 - Ashriel Tayo-Olugbode - Mar 28, 2026 847 PM - RecipeGeniusArchitecture_MultiAgent.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1697022-4634675 - Ashriel Tayo-Olugbode - Mar 28, 2026 847 PM - RecipeGeniusDesign_MilestoneII.docx"
+  },
+  {
+    "name": "Avery Piquant",
+    "project": "CIS 4394 Final Project Proposal",
+    "desc": "Agentic AI project focused on cis 4394 final project proposal with practical workflow automation.",
+    "domain": "IT / Operations",
+    "platform": "Google ADK",
+    "segment": "B2B",
+    "target": "Internal IT/support teams",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1956341-4634675 - Avery Piquant - Mar 26, 2026 1158 PM - Milestone II Architecture Diagram.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1956341-4634675 - Avery Piquant - Mar 26, 2026 1158 PM - Milestone II Design Document.docx"
+  },
+  {
+    "name": "Awais Mohiuddin",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "Opal",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/873227-4634655 - Awais Mohiuddin - Mar 25, 2026 856 PM - Project Milestone 2.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/873227-4634655 - Awais Mohiuddin - Mar 25, 2026 856 PM - Project Milestone 2.pdf"
+  },
+  {
+    "name": "Bas Abariga",
+    "project": "OfferPacket Agent Project Proposal",
+    "desc": "Agentic AI project focused on offerpacket agent project proposal with practical workflow automation.",
+    "domain": "Career",
+    "platform": "Google ADK",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1713707-4634655 - Bas Abariga - Mar 26, 2026 1203 AM - multi_agent_design_doc_full.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1713707-4634655 - Bas Abariga - Mar 26, 2026 1203 AM - multi_agent_design_doc_full.pdf"
+  },
+  {
+    "name": "Bethel Tebeje",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952599-4634675 - Bethel Tebeje - Mar 26, 2026 750 PM - Multi-Agent Workflow Design - Bethel Tebeje.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952599-4634675 - Bethel Tebeje - Mar 26, 2026 750 PM - Multi-Agent Workflow Design - Bethel Tebeje.pdf"
+  },
+  {
+    "name": "Brandon Nim",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2033818-4634675 - Brandon Nim - Mar 28, 2026 855 PM - Syncro Design Doc.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2033818-4634675 - Brandon Nim - Mar 28, 2026 855 PM - Syncro Design Doc.docx"
+  },
+  {
+    "name": "Briam Adams",
+    "project": "BRIAMADAMS PROJECT PROPOSAL",
+    "desc": "Initial System Design Exam Builder AI is developed as a multi-agent system, with each agent having a particular role to play.",
+    "domain": "Education",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1957366-4634675 - Briam Adams - Mar 24, 2026 137 PM - BriamAdams_Exambuilder_Miletone2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1957366-4634675 - Briam Adams - Mar 26, 2026 1117 AM - BriamAdams_Exambuilder_Miletone2.docx"
+  },
+  {
+    "name": "Brianna Stewart",
+    "project": "Agentic AI Proposal 2 - Brianna Stewart",
+    "desc": "This program will create an agentic system that will maintain an \u201cactive memory\u201d of the average adult \u2019s pantry/fridge \u2019s inventory and food purchases , then make recomme.",
+    "domain": "Lifestyle",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2005949-4634675 - Brianna Stewart - Mar 27, 2026 1159 PM - Milestone II Report - Final Draft.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2005949-4634675 - Brianna Stewart - Mar 27, 2026 1159 PM - Milestone II Report - Final Draft.docx"
+  },
+  {
+    "name": "Bunmi Akinsunmi",
+    "project": "Agentic AI Project",
+    "desc": "An agentic AI system is a perfect solution for this project because it breaks down the ask from the user into smaller tasks while using tools to coordinate itineraries.",
+    "domain": "Lifestyle",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2214613-4634655 - Bunmi Akinsunmi - Mar 29, 2026 1157 PM - Milestone II - Multi Agent Workflow.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2214613-4634655 - Bunmi Akinsunmi - Mar 29, 2026 1157 PM - Milestone II - Multi Agent Workflow.docx"
+  },
+  {
+    "name": "Camryn Foyt",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2288296-4634675 - Camryn Foyt - Mar 26, 2026 349 PM - Milestone2_Doc.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2288296-4634675 - Camryn Foyt - Mar 26, 2026 349 PM - Milestone2_Doc.pdf"
+  },
+  {
+    "name": "Chelsey Parker",
+    "project": "(Updated) Chelsey Parker - Final Project, Proposal",
+    "desc": "Timeline 02/ 05 \u2013 03/04: Learn how to and b uild interface for AI Agent 03/04- 03/11: Create multi-agent workflow 03/12-03/25: Evaluate the model through testing 03/26-04.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/1954508-4613126 - Chelsey Parker - Feb 19, 2026 1050 PM - (Updated) Chelsey Parker - Final Project, Proposal.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Corey Cooper",
+    "project": "Scholarship Scout",
+    "desc": "Agentic AI project focused on scholarship scout with practical workflow automation.",
+    "domain": "Education",
+    "platform": "Google ADK",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1700727-4634655 - Corey Cooper - Mar 25, 2026 1130 PM - Risk Mitigation Plan.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1700727-4634655 - Corey Cooper - Mar 25, 2026 1130 PM - Risk Mitigation Plan.docx"
+  },
+  {
+    "name": "Corie Jimmar",
+    "project": "1-Project Proposal PDF",
+    "desc": "Agentic AI project focused on 1-project proposal pdf with practical workflow automation.",
+    "domain": "Career",
+    "platform": "Google ADK",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2495947-4634675 - Corie Jimmar - Mar 26, 2026 828 PM - AgenticAI_MILESTONE_2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2495947-4634675 - Corie Jimmar - Mar 26, 2026 828 PM - AgenticAI_MILESTONE_2.docx"
+  },
+  {
+    "name": "Dannelly Vargas",
+    "project": "Final project  Proposal",
+    "desc": "Agentic AI project focused on final project  proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1880390-4634675 - Dannelly Vargas - Mar 26, 2026 910 PM - Milestone2Design.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1880390-4634675 - Dannelly Vargas - Mar 26, 2026 910 PM - Milestone2Design.docx"
+  },
+  {
+    "name": "Derrick Earley",
+    "project": "Agentic AI Project",
+    "desc": "This project addresses the problem of slow and inefficient game analysis by automating statistical evaluation and lineup recommendations using an AI agentic system.",
+    "domain": "Productivity",
+    "platform": "Opal",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1732837-4634655 - Derrick Earley - Mar 25, 2026 1155 PM - Project Milestone 2.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1732837-4634655 - Derrick Earley - Mar 25, 2026 1155 PM - Project Milestone 2.docx"
+  },
+  {
+    "name": "Dharshana Suresh",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Lifestyle",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2007512-4634675 - Dharshana Suresh - Mar 26, 2026 1114 PM - Milestone 2-2.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2007512-4634675 - Dharshana Suresh - Mar 26, 2026 1114 PM - Milestone 2-2.pdf"
+  },
+  {
+    "name": "Diarrik Chung",
+    "project": "Project Proposal(Agentic AI)",
+    "desc": "Agentic AI project focused on project proposal(agentic ai) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1616430-4634675 - Diarrik Chung - Mar 26, 2026 954 PM - Milestone II \u2013 Multi-agent Workflow  (1).pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1616430-4634675 - Diarrik Chung - Mar 26, 2026 954 PM - Milestone II \u2013 Multi-agent Workflow  (1).pdf"
+  },
+  {
+    "name": "Dylan Li",
+    "project": "Proposal.pdf",
+    "desc": "Agentic AI project focused on proposal.pdf with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2287662-4634675 - Dylan Li - Mar 26, 2026 1047 PM - Technical Analysis Assistant.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2287662-4634675 - Dylan Li - Mar 26, 2026 1047 PM - Technical Analysis Assistant.docx"
+  },
+  {
+    "name": "Elise Parks",
+    "project": "Agentic AI Project",
+    "desc": "In conclusion, ResuMate is a multi-agent AI system that will be created to make high-quality resume optimization and job discovery accessible without requiring prompt eng.",
+    "domain": "Career",
+    "platform": "LangChain",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740269-4634675 - Elise Parks - Mar 26, 2026 738 PM - Milestone 2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740269-4634675 - Elise Parks - Mar 26, 2026 738 PM - Milestone 2.docx"
+  },
+  {
+    "name": "Emani Zackpah",
+    "project": "AI Agentic Project Proposal",
+    "desc": "Agentic AI project focused on ai agentic project proposal with practical workflow automation.",
+    "domain": "Finance",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "Consumers and households",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1960211-4634655 - Emani Zackpah - Mar 28, 2026 540 PM - Multi-Agent Workflow.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1960211-4634655 - Emani Zackpah - Mar 28, 2026 540 PM - Multi-Agent Workflow.pdf"
+  },
+  {
+    "name": "Ester Lee",
+    "project": "Agentic AI- Proposal",
+    "desc": "Agentic AI project focused on agentic ai- proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "Google ADK",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1707192-4634675 - Ester Lee - Mar 26, 2026 833 PM - Project Milestone 2 Final.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1707192-4634675 - Ester Lee - Mar 26, 2026 833 PM - Project Milestone 2 Final.docx"
+  },
+  {
+    "name": "Evan Anderson",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952964-4634675 - Evan Anderson - Mar 24, 2026 1132 AM - README-Milestone2.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952964-4634675 - Evan Anderson - Mar 24, 2026 1132 AM - README-Milestone2.docx"
+  },
+  {
+    "name": "Eyan Saif",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on pp agentic ai with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956586-4634655 - Eyan Saif - Mar 24, 2026 840 PM - Milestone2AgenticAI.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956586-4634655 - Eyan Saif - Mar 24, 2026 840 PM - Milestone2AgenticAI.pdf"
+  },
+  {
+    "name": "Fikre Hailu",
+    "project": "Fikre Hailu Proposal",
+    "desc": "Agentic AI project focused on fikre hailu proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B",
+    "target": "Professionals and office teams",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956256-4634655 - Fikre Hailu - Mar 25, 2026 1157 PM - Milestone II.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956256-4634655 - Fikre Hailu - Mar 25, 2026 1157 PM - Milestone II.docx"
+  },
+  {
+    "name": "Garrison Daniell",
+    "project": "Final Project Proposal - Garrison Daniell",
+    "desc": "Agentic AI project focused on final project proposal - garrison daniell with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2227267-4634675 - Garrison Daniell - Mar 26, 2026 1133 PM - Milestone II_ Multi-Agent Workflow - Garrison Daniell.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2227267-4634675 - Garrison Daniell - Mar 26, 2026 1133 PM - Milestone II_ Multi-Agent Workflow - Garrison Daniell.docx"
+  },
+  {
+    "name": "Gelila Solomon",
+    "project": "Hairstyle Agent Proposal Gelila Solomon",
+    "desc": "Constraints include API limits, privacy concerns with facial images, and development time within the semester.",
+    "domain": "Lifestyle",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1224902-4634655 - Gelila Solomon - Mar 25, 2026 1042 PM - Milestone2_Design_Doc.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1224902-4634655 - Gelila Solomon - Mar 25, 2026 1042 PM - Milestone2_Design_Doc.docx"
+  },
+  {
+    "name": "Gideon Olujuyigbe",
+    "project": "Final Project  Proposal",
+    "desc": "They often juggle multiple credit cards, student loans, and new living expenses, while also wanting to create emergency funds.",
+    "domain": "Finance",
+    "platform": "CrewAI",
+    "segment": "B2C",
+    "target": "Consumers and households",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1953874-4634655 - Gideon Olujuyigbe - Mar 26, 2026 718 PM - Final Project_ Project Milestone 2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1953874-4634655 - Gideon Olujuyigbe - Mar 26, 2026 718 PM - Final Project_ Project Milestone 2.docx"
+  },
+  {
+    "name": "Gisselle Trejo-Trujillo",
+    "project": "What2Eat.ProjectProposal",
+    "desc": "Scenario 2: \u201c I want to plan homecooked meals for the week to avoid eating fast food.\u201d For this task the agents will create a schedule mapping meals to times (breakfast,.",
+    "domain": "Lifestyle",
+    "platform": "Google ADK",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/874525-4634675 - Gisselle Trejo-Trujillo - Mar 26, 2026 714 PM - Milestone2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/874525-4634675 - Gisselle Trejo-Trujillo - Mar 26, 2026 714 PM - Milestone2.docx"
+  },
+  {
+    "name": "Hamdy Ismail",
+    "project": "Revised Project Proposal  Agentic AI Resume Tailoring System (3)",
+    "desc": "This project proposes an Agentic AI Resume Tailoring System that helps users tailor their resumes to specific job postings in a structured, transparent, and truthful way.",
+    "domain": "Career",
+    "platform": "LangGraph",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2001609-4634655 - Hamdy Ismail - Mar 25, 2026 1120 PM - architecture_diagram.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2001609-4634655 - Hamdy Ismail - Mar 25, 2026 1120 PM - Hamdy Ismail milestone2_design_doc (1).docx"
+  },
+  {
+    "name": "Hayley Vu",
+    "project": "Hayley Vu - Final project Proposal - ImmiGuide",
+    "desc": "Agentic AI project focused on hayley vu - final project proposal - immiguide with practical workflow automation.",
+    "domain": "Legal / Civic",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "International students and residents",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2217554-4634675 - Hayley Vu - Mar 27, 2026 1119 PM - Short Design Document.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2217554-4634675 - Hayley Vu - Mar 27, 2026 1119 PM - Short Design Document.docx"
+  },
+  {
+    "name": "Hazem Omar",
+    "project": "Hazem Omar - Proposal",
+    "desc": "My proposal is to create an AI agentic tool that is made to read through college syllabi and/or college-course websites and give regular reminders via email to students o.",
+    "domain": "Education",
+    "platform": "CrewAI",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1948025-4634655 - Hazem Omar - Mar 23, 2026 853 PM - Paul the Planner Pal - Design Document.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1948025-4634655 - Hazem Omar - Mar 23, 2026 853 PM - Paul the Planner Pal - Design Document.docx"
+  },
+  {
+    "name": "Hrithik Kathiresan",
+    "project": "agenticAI ProjectProposal",
+    "desc": "Agentic AI project focused on agenticai projectproposal with practical workflow automation.",
+    "domain": "Lifestyle",
+    "platform": "CrewAI",
+    "segment": "B2C",
+    "target": "Consumers managing routines",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1949870-4634655 - Hrithik Kathiresan - Mar 25, 2026 1146 PM - Agentic AI Project Milestone #2 Multi-Agent Workflow- Hrithik Kathiresan.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1949870-4634655 - Hrithik Kathiresan - Mar 25, 2026 1146 PM - Agentic AI Project Milestone #2 Multi-Agent Workflow- Hrithik Kathiresan.docx"
+  },
+  {
+    "name": "Iman Abdalla",
+    "project": "Project Proposal  Agentic AI System for Academic Planning Using Canvas Data",
+    "desc": "Conclusion This project proposes an agentic AI system designed to help students manage academic responsibilities more efficiently by integrating with Canvas.",
+    "domain": "Education",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1734448-4634655 - Iman Abdalla - Mar 25, 2026 210 AM - agentic ai part 2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1734448-4634655 - Iman Abdalla - Mar 25, 2026 210 AM - agentic ai part 2.docx"
+  },
+  {
+    "name": "Isaac Ugoh",
+    "project": "Agentic AI Project",
+    "desc": "Content marketers dedicate 60 to 70 percent of their work hours to executing logistics instead of developing strategic plans because they must handle 5 to 10 different to.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B",
+    "target": "Professionals and office teams",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2000393-4634675 - Isaac Ugoh - Mar 26, 2026 1143 PM - multi_agent_design_document.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2000393-4634675 - Isaac Ugoh - Mar 26, 2026 1143 PM - multi_agent_design_document.pdf"
+  },
+  {
+    "name": "Isra Khan",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952548-4634675 - Isra Khan - Mar 26, 2026 1148 PM - Updated Code (Opal_no code).pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952548-4634675 - Isra Khan - Mar 26, 2026 1148 PM - Design Document.pdf"
+  },
+  {
+    "name": "Jackie Cu",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740434-4634675 - Jackie Cu - Mar 26, 2026 1038 PM - milestone 2.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740434-4634675 - Jackie Cu - Mar 26, 2026 1038 PM - milestone 2.docx"
+  },
+  {
+    "name": "Jeevan Nachiappan",
+    "project": "ScopeGuard",
+    "desc": "ScopeGuard This project proposes ScopeGuard , an agentic AI decision-support system designed to help student founders evaluate and refine the scope of their MVP ideas.",
+    "domain": "Entrepreneurship",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "Student founders and startups",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/2003086-4613126 - Jeevan Nachiappan - Feb 4, 2026 725 PM - ScopeGuard.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2003086-4634655 - Jeevan Nachiappan - Mar 24, 2026 626 PM - DESIGN_DOCUMENT.md"
+  },
+  {
+    "name": "Jhonatan Lopez Amaya",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1715885-4634675 - Jhonatan Lopez Amaya - Mar 26, 2026 1009 PM - PPC_Risk_Mitigation_Plan.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1715885-4634675 - Jhonatan Lopez Amaya - Mar 26, 2026 1009 PM - PPC_Risk_Mitigation_Plan.docx"
+  },
+  {
+    "name": "Joseph Sifuentes-Huamani",
+    "project": "Project proposal",
+    "desc": "Agentic AI project focused on project proposal  (1) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "Opal",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1708440-4634655 - Joseph Sifuentes-Huamani - Mar 25, 2026 1157 PM - Mulit-agent (1).pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1708440-4634655 - Joseph Sifuentes-Huamani - Mar 25, 2026 1157 PM - Mulit-agent (1).pdf"
+  },
+  {
+    "name": "Kirk Kiker",
+    "project": "Proposal AI Health and Fitness Planning Agent",
+    "desc": "Agentic AI project focused on proposal ai health and fitness planning agent with practical workflow automation.",
+    "domain": "Health",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "Health-conscious individuals",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740564-4634675 - Kirk Kiker - Mar 26, 2026 1247 PM - Ai Fitness.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1740564-4634675 - Kirk Kiker - Mar 26, 2026 1247 PM - Ai Fitness.docx"
+  },
+  {
+    "name": "Lauren Chan",
+    "project": "Agentic AI Individual Project Proposal",
+    "desc": "Agentic AI project focused on agentic ai individual project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2004610-4634655 - Lauren Chan - Mar 25, 2026 1132 PM - Agentic AI Project Milestone 2.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2004610-4634655 - Lauren Chan - Mar 25, 2026 1132 PM - Agentic AI Project Milestone 2.pdf"
+  },
+  {
+    "name": "Layan Bawaneh",
+    "project": "CIS 4394 Project Proposal",
+    "desc": "Agentic AI project focused on cis 4394 project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2145339-4634675 - Layan Bawaneh - Mar 25, 2026 1120 AM - Project Milestone #2.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2145339-4634675 - Layan Bawaneh - Mar 25, 2026 1120 AM - Project Milestone #2.pdf"
+  },
+  {
+    "name": "Maiya Brooks",
+    "project": "Maiya Brooks Project Proposal",
+    "desc": "Agentic AI project focused on maiya brooks project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2487315-4634675 - Maiya Brooks - Mar 26, 2026 928 PM - Risks Assignment.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2487315-4634675 - Maiya Brooks - Mar 26, 2026 928 PM - Risks Assignment.docx"
+  },
+  {
+    "name": "Maleah Vickers",
+    "project": "Agentic AI Project",
+    "desc": "This project will address the real-world problem of ineffective studying and motivation habits caused by hidden learning gaps and procrastination behaviors.",
+    "domain": "Education",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1955969-4634675 - Maleah Vickers - Mar 26, 2026 832 PM - Design Document.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1955969-4634675 - Maleah Vickers - Mar 26, 2026 832 PM - Design Document.docx"
+  },
+  {
+    "name": "Maria Magana",
+    "project": "Final Project  Proposal",
+    "desc": "Agentic AI project focused on final project  proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952947-4634675 - Maria Magana - Mar 23, 2026 713 PM - Updated Code(prompt).pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952947-4634675 - Maria Magana - Mar 23, 2026 713 PM - Milestone 3.pdf"
+  },
+  {
+    "name": "Michelle Ni",
+    "project": "CIS4394  Final Project  Proposal",
+    "desc": "Agentic AI project focused on cis4394  final project  proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2214140-4634655 - Michelle Ni - Mar 25, 2026 1159 PM - Milestone II \u2013 Multi-agent Workflow.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2214140-4634655 - Michelle Ni - Mar 25, 2026 1159 PM - Milestone II \u2013 Multi-agent Workflow.pdf"
+  },
+  {
+    "name": "Mikail Ismail",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/2011178-4613126 - Mikail Ismail - Feb 4, 2026 1152 PM - Project Proposal.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Naa Barnor",
+    "project": "Project Proposal OrangeMoon",
+    "desc": "Target users include: people tracking periods for general health awareness, individuals trying to conceive, those using natural family planning to avoid pregnancy, and pr.",
+    "domain": "Health",
+    "platform": "n8n",
+    "segment": "B2C",
+    "target": "Health-conscious individuals",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1957717-4634655 - Naa Barnor - Mar 23, 2026 719 PM - Milestone II design document.docx.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1957717-4634655 - Naa Barnor - Mar 23, 2026 719 PM - Milestone II design document.docx.pdf"
+  },
+  {
+    "name": "Nada Mohamed",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/1719247-4613126 - Nada Mohamed - Feb 5, 2026 326 PM - Final Project Proposal.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Nasrin Akter",
+    "project": "Project Proposal  AI Terms & Policy Translator",
+    "desc": "Agentic AI project focused on project proposal  ai terms & policy translator with practical workflow automation.",
+    "domain": "Legal / Civic",
+    "platform": "LangChain",
+    "segment": "B2C",
+    "target": "International students and residents",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1942350-4634655 - Nasrin Akter - Mar 25, 2026 454 PM - Milestone 2.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1942350-4634655 - Nasrin Akter - Mar 25, 2026 454 PM - Milestone 2.pdf"
+  },
+  {
+    "name": "Nava Pidugu",
+    "project": "Nava Pdugu's Project Proposal  An Agentic AI System for Long-Term Friendship Maintenance",
+    "desc": "Agentic AI project focused on nava pdugu's project proposal  an agentic ai system for long-term friendship maintenance with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956428-4634655 - Nava Pidugu - Mar 26, 2026 258 PM - closeorbit_milestone2_design.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1956428-4634655 - Nava Pidugu - Mar 26, 2026 258 PM - closeorbit_milestone2_design.docx"
+  },
+  {
+    "name": "Olumide Taiwo",
+    "project": "Agentic AI Project",
+    "desc": "The AI Clinic Triage Helper aims to address this problem by assisting people in determining whether their symptoms are urgent and what they should do without giving them.",
+    "domain": "Health",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "Health-conscious individuals",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1948021-4634655 - Olumide Taiwo - Mar 26, 2026 115 AM - Design Document \u2013 AI Study Assistant.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1948021-4634655 - Olumide Taiwo - Mar 26, 2026 115 AM - Design Document \u2013 AI Study Assistant.docx"
+  },
+  {
+    "name": "Patrick Wimberly",
+    "project": "Agentic AI Project",
+    "desc": "This project solves the problem of application fatigue.",
+    "domain": "Career",
+    "platform": "Google ADK",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2037665-4634655 - Patrick Wimberly - Mar 25, 2026 1031 PM - AutoPilot milestone2 doc.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2037665-4634655 - Patrick Wimberly - Mar 25, 2026 1031 PM - Risk and mitigation plan.docx"
+  },
+  {
+    "name": "Penelope Durden",
+    "project": "Agentic AI Project",
+    "desc": "While GSU services like Navigate and DegreeWorks are available to students for self-advisement, it can be difficult to create a long term plan using these tools.",
+    "domain": "Productivity",
+    "platform": "Opal",
+    "segment": "B2B",
+    "target": "Professionals and office teams",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1740210-4634655 - Penelope Durden - Mar 27, 2026 1217 AM - Agentic Assignment 2.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1740210-4634655 - Penelope Durden - Mar 27, 2026 1217 AM - Agentic Assignment 2.docx"
+  },
+  {
+    "name": "Raad Zakir",
+    "project": "Zakir Project Proposal",
+    "desc": "Agentic AI project focused on zakir project proposal with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangChain",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1213601-4634655 - Raad Zakir - Mar 8, 2026 505 PM - Zakir_Milestone II.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1213601-4634655 - Raad Zakir - Mar 8, 2026 505 PM - Zakir_Milestone II.pdf"
+  },
+  {
+    "name": "Raquel Martin",
+    "project": "AI Resume Optimization Proposal",
+    "desc": "Constrai n ts This project operates under several practical constraints.",
+    "domain": "Career",
+    "platform": "LangChain",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1949675-4634675 - Raquel Martin - Mar 27, 2026 1222 AM - job_copilot_docs.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1949675-4634675 - Raquel Martin - Mar 27, 2026 1222 AM - job_copilot_docs.pdf"
+  },
+  {
+    "name": "Rekha Wulfekuhle",
+    "project": "Project Proposal  NutriGuide \u2014 AI Wellness & Nutrition Tracker",
+    "desc": "Agentic AI project focused on project proposal  nutriguide \u2014 ai wellness & nutrition tracker with practical workflow automation.",
+    "domain": "Health",
+    "platform": "CrewAI",
+    "segment": "B2C",
+    "target": "Health-conscious individuals",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1952437-4634655 - Rekha Wulfekuhle - Mar 25, 2026 905 PM - NutriGuide_Milestone2_DesignDoc.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1952437-4634655 - Rekha Wulfekuhle - Mar 25, 2026 905 PM - NutriGuide_Milestone2_DesignDoc.docx"
+  },
+  {
+    "name": "Sabir Francois",
+    "project": "Agentic AI Project",
+    "desc": "- The Resume Writer Agent will create new bullet points for the resume which will reflect the extracted skill and qualification information while maintaining the factual.",
+    "domain": "Career",
+    "platform": "CrewAI",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/2009187-4613126 - Sabir Francois - Feb 4, 2026 1157 PM - Agentic_AI_Project_Proposal.docx",
+    "tags": [],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Sai Putumbaka",
+    "project": "Agentic AI Final Project Proposal - Sai Putumbaka",
+    "desc": "Agentic AI project focused on agentic ai final project proposal - sai putumbaka with practical workflow automation.",
+    "domain": "Career",
+    "platform": "n8n",
+    "segment": "B2B",
+    "target": "Students and job seekers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1955844-4634655 - Sai Putumbaka - Mar 25, 2026 1126 PM - Agentic AI Desgin Document.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1955844-4634655 - Sai Putumbaka - Mar 25, 2026 1126 PM - Agentic AI Desgin Document.pdf"
+  },
+  {
+    "name": "Sameha Mohamed",
+    "project": "sameha proposal",
+    "desc": "This project addresses the real world problem of sustained routine maintenance , not initial motivation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final project Proposal Download Mar 31, 2026 243 AM/1719249-4613125 - Sameha Mohamed - Feb 4, 2026 1127 PM - sameha_proposal.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Shriya Punna",
+    "project": "agentic ai proposal - Google Docs",
+    "desc": "Agentic AI project focused on agentic ai proposal - google docs with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "Google ADK",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1951327-4634655 - Shriya Punna - Mar 25, 2026 1048 PM - agentic milestone 2 - Google Drawings.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1951327-4634655 - Shriya Punna - Mar 25, 2026 1048 PM - agentic milestone 2 - Google Drawings.pdf"
+  },
+  {
+    "name": "Sriya Nednur",
+    "project": "Enzyme Engineering & Directed Evolution Planner  An Agentic AI System for Rational Protein Design",
+    "desc": "Agentic AI project focused on enzyme engineering & directed evolution planner  an agentic ai system for rational protein design with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1999900-4634675 - Sriya Nednur - Mar 26, 2026 1155 PM - AgenticAI_EnzymeEngineerDesignDocument.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1999900-4634675 - Sriya Nednur - Mar 26, 2026 1155 PM - AgenticAI_EnzymeEngineerDesignDocument.pdf"
+  },
+  {
+    "name": "Sukhmani Kaur",
+    "project": "Final Project Proposal  SpotMe  Your AI Gym Buddy -2",
+    "desc": "Agentic AI project focused on final project proposal  spotme  your ai gym buddy -2 with practical workflow automation.",
+    "domain": "Health",
+    "platform": "LangGraph",
+    "segment": "B2C",
+    "target": "Health-conscious individuals",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1717084-4634675 - Sukhmani Kaur - Mar 26, 2026 1048 PM - Design Document_ Milestone II \u2013 Multi-agent Workflow-4.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1717084-4634675 - Sukhmani Kaur - Mar 26, 2026 1048 PM - Design Document_ Milestone II \u2013 Multi-agent Workflow-4.pdf"
+  },
+  {
+    "name": "Suriah Mohammed",
+    "project": "Final Proposal",
+    "desc": "While planners and reminder apps exist, they usually require students to manually create and manage their schedules and do not help with understanding or reviewing course.",
+    "domain": "Education",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1839225-4634655 - Suriah Mohammed - Mar 24, 2026 916 PM - Milestone ll Design document.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1839225-4634655 - Suriah Mohammed - Mar 24, 2026 916 PM - Milestone ll Design document.docx"
+  },
+  {
+    "name": "Tamel Robinson",
+    "project": "AI Agentic System Proposal",
+    "desc": "AI Agentic System Proposal Project Title: Agentic AI Pre-Construction Assistant for Residential Real Estate Development 1.",
+    "domain": "Real Estate",
+    "platform": "LangChain",
+    "segment": "B2B",
+    "target": "Residential developers",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2254357-4634655 - Tamel Robinson - Mar 25, 2026 1044 PM - Tamel Robinsoon.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/2254357-4634655 - Tamel Robinson - Mar 25, 2026 1044 PM - Tamel Robinsoon.docx"
+  },
+  {
+    "name": "Tamera Sharpe",
+    "project": "AI Agentic System Proposal",
+    "desc": "Multi-Agent Architecture: Orchestrator Agent: Analyzes input, creates execution plans, delegates tasks, manages communication, resolves conflicts, and synthesizes final d.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1999893-4634675 - Tamera Sharpe - Mar 26, 2026 959 PM - Risks.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1999893-4634675 - Tamera Sharpe - Mar 26, 2026 959 PM - meddocai_agent_architecture.pdf"
+  },
+  {
+    "name": "Tony Amoateng",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "n8n",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1952552-4634655 - Tony Amoateng - Mar 25, 2026 1157 PM - SKU_Agent_Workflow_Report.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1952552-4634655 - Tony Amoateng - Mar 25, 2026 1157 PM - SKU_Agent_Workflow_Report.docx"
+  },
+  {
+    "name": "Vandanadevi Dasarapu",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone 1 Proposal/Final Project Proposal Download Mar 31, 2026 243 AM (1)/1948294-4613126 - Vandanadevi Dasarapu - Feb 27, 2026 1033 PM - Project Proposal.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": ""
+  },
+  {
+    "name": "Ved Paranjpe",
+    "project": "Project Proposal",
+    "desc": "Agentic AI project focused on project proposal (1) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952432-4634675 - Ved Paranjpe - Mar 28, 2026 1025 PM - Milestone 2 Multi-Agent Workflow design document.pdf",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1952432-4634675 - Ved Paranjpe - Mar 28, 2026 1025 PM - Milestone 2 Multi-Agent Workflow design document.pdf"
+  },
+  {
+    "name": "Vinny Nguyen",
+    "project": "LaunchLabs Agentic AI Proposal.docx",
+    "desc": "Agentic AI project focused on launchlabs agentic ai proposal.docx with practical workflow automation.",
+    "domain": "Entrepreneurship",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "Student founders and startups",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/685927-4634655 - Vinny Nguyen - Mar 25, 2026 1128 PM - LaunchLabs AI Agent System \u2014 Design Document.docx",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/685927-4634655 - Vinny Nguyen - Mar 25, 2026 1128 PM - LaunchLabs AI Agent System \u2014 Design Document.docx"
+  },
+  {
+    "name": "Vivi Nguyen",
+    "project": "Agentic AI Project",
+    "desc": "Agentic AI project focused on agentic ai project with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1433183-4634675 - Vivi Nguyen - Mar 25, 2026 423 PM - M2 Doc.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/1433183-4634675 - Vivi Nguyen - Mar 25, 2026 423 PM - M2 Doc.docx"
+  },
+  {
+    "name": "Vy Nguyen",
+    "project": "Individual Project Proposal.pdf (Updated Version)",
+    "desc": "Agentic AI project focused on individual project proposal.pdf (updated version) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "LangGraph",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1959718-4634655 - Vy Nguyen - Mar 24, 2026 417 PM - (Milestone II) Short design document.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM (1)/1959718-4634655 - Vy Nguyen - Mar 24, 2026 417 PM - (Milestone II) Short design document.docx"
+  },
+  {
+    "name": "Zaynab Faqeeri",
+    "project": "CIS 4394 Proposal (Zaynab Faqeeri)",
+    "desc": "Agentic AI project focused on cis 4394 proposal (zaynab faqeeri) with practical workflow automation.",
+    "domain": "Productivity",
+    "platform": "CrewAI",
+    "segment": "B2B/B2C",
+    "target": "General users",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2207857-4634675 - Zaynab Faqeeri - Mar 26, 2026 1109 PM - CIS 4394 Milestone II Design Document.docx",
+    "tags": [
+      "inferred-domain"
+    ],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2207857-4634675 - Zaynab Faqeeri - Mar 26, 2026 1109 PM - CIS 4394 Milestone II Design Document.docx"
+  },
+  {
+    "name": "Zion Shigute",
+    "project": "Project Proposal  SmartStudy AI",
+    "desc": "Agentic AI project focused on project proposal  smartstudy ai with practical workflow automation.",
+    "domain": "Education",
+    "platform": "Opal",
+    "segment": "B2C",
+    "target": "College students and learners",
+    "proposalPath": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2404332-4634675 - Zion Shigute - Mar 26, 2026 106 PM - Mitigation Plan - ICA.pdf",
+    "tags": [],
+    "milestone2Path": "files/Student Project/Milestone2 Multi Agent workflow/Final Project Project Milestone 2 - Multi-agent workflow Download Mar 31, 2026 328 AM/2404332-4634675 - Zion Shigute - Mar 26, 2026 106 PM - SmartStudy AI Design Document.pdf"
+  }
+]
